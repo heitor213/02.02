@@ -1,0 +1,3 @@
+LOG_FILE = "notifications.log"
+LOG_MAX_BYTES = 1_000_000
+LOG_BACKUP_COUNT = 3
